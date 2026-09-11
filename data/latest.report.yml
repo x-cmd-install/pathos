@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:42:13Z
+  collectedAt: 2026-09-11T20:20:11Z
 timeline:
   created: 2022-07-01
   lastCommit: 2026-08-31
@@ -83,7 +83,7 @@ total:
   commit: 49
 ---
 path: /home/runner/.x-repo/github.com/chip/pathos
-collectedAt: 2026-09-11T04:42:15Z
+collectedAt: 2026-09-11T20:20:14Z
 loc:
   Go:
     code: 309
