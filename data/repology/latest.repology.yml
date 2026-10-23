@@ -1,0 +1,225 @@
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.5
+  origversion: 0.3.5-1
+  status: unique
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.5
+  origversion: 0.3.5-1
+  status: unique
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.5
+  origversion: 0.3.5-1
+  status: unique
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.5
+  origversion: 0.3.5-1
+  status: unique
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: pathos
+  binnames:
+    - python-pathos-doc
+    - python3-pathos
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - doc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.5
+  origversion: 0.3.5-1
+  status: unique
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.2
+  origversion: 0.3.2-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.4
+  origversion: 0.3.4-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: pathos
+  binnames:
+    - python3-pathos
+    - python-pathos-doc
+  visiblename: pathos
+  version: 0.3.5
+  origversion: 0.3.5-1
+  status: unique
+  maintainers:
+    - team+python@tracker.debian.org
+    - jdg@debian.org
+  categories:
+    - universe/misc
